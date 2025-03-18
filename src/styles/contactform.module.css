@@ -1,0 +1,15 @@
+.errorCard {
+  animation-duration: 1s;
+  animation-name: slidein;
+  animation-iteration-count: 1;
+}
+
+@keyframes slidein {
+  0% {
+    bottom: -50px;
+  }
+
+  100% {
+    bottom: 50px;
+  }
+}
