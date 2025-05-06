@@ -34,7 +34,7 @@ export function Navbar() {
           <button
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/17DYyJSgrjg1nEyj6iglUADkzRXOZaSdQ/view?usp=sharing",
+                "https://drive.google.com/file/d/1DI9cS16dwnWkD73IX9xUQnAV-zcVzmFh/view?usp=drive_link",
                 "_blank"
               )
             }
@@ -89,7 +89,7 @@ export function Navbar() {
           <button
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/17DYyJSgrjg1nEyj6iglUADkzRXOZaSdQ/view?usp=sharing",
+                "https://drive.google.com/file/d/1DI9cS16dwnWkD73IX9xUQnAV-zcVzmFh/view?usp=drive_link",
                 "_blank"
               )
             }
